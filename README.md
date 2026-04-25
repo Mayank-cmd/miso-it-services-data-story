@@ -68,6 +68,3 @@ miso-it-services-data-story/
 
 Team 5 | MISM 6213 | Northeastern University | Spring 2026
 
-## AI Disclosure
-
-Claude (Anthropic, 2026) was used to assist with structuring, refining, and iterating on written deliverables, statistical analysis review, and chart generation. All analytical insights, domain decisions, and final content were reviewed, edited, and validated by team members.
